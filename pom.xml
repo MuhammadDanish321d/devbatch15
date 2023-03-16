@@ -10,15 +10,9 @@
   <packaging>pom</packaging>
   <name>SortPom</name>
   <description>A Maven plugin that sorts the pom.xml file.</description>
-  <profiles>
-    <profile>
-      <modules>
-        <module>sorter</module>
-        <module>maven-plugin</module>
-      </modules>
-    </profile>
-  </profiles>
-    
+  
+  
+  
   <properties>
     <compileSource>11</compileSource>
     <junit.jupiter.version>5.9.2</junit.jupiter.version>
