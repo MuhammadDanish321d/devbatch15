@@ -285,7 +285,7 @@
                   <version>3.3.9</version>
                 </requireMavenVersion>
                 <requireJavaVersion>
-                  <version>11</version>
+                  <version>1.8</version>
                 </requireJavaVersion>
                 <requirePluginVersions>
                   <message>Best Practice is to always define plugin versions!</message>
