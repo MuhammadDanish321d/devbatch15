@@ -16,8 +16,8 @@
         <module>sorter</module>
         <module>maven-plugin</module>
       </modules>
-    <profile>
-  <profiles>
+    </profile>
+  </profiles>
     
   <properties>
     <compileSource>11</compileSource>
